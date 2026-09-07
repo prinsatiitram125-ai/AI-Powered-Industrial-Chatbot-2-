@@ -1,0 +1,29 @@
+INDUSTRIAL MACHINE MAINTENANCE AND SAFETY MANUAL
+
+1. GENERAL SAFETY
+
+Before operating industrial machinery, inspect the machine for visible damage, loose components, abnormal leakage and unusual noise. Operators should wear the personal protective equipment specified for the machine and work area.
+
+The machine must be stopped and isolated from its energy source before maintenance work begins. Appropriate lockout/tagout procedures should be followed according to the organization's safety rules.
+
+2. PREVENTIVE MAINTENANCE
+
+Preventive maintenance is planned maintenance performed at defined intervals to reduce unexpected failures.
+
+Daily checks should include visual inspection, checking for abnormal noise or vibration, checking lubrication levels where applicable, and inspecting guards and safety devices.
+
+3. VIBRATION
+
+Excessive vibration can indicate imbalance, misalignment, looseness, bearing problems or other mechanical issues. If abnormal vibration is detected, stop the machine when it is safe to do so and perform the organization's inspection procedure.
+
+4. TEMPERATURE
+
+Unexpected increases in component temperature may indicate insufficient lubrication, excessive load, friction, cooling problems or bearing deterioration. Temperature trends should be monitored according to the maintenance program.
+
+5. RECORD KEEPING
+
+Maintenance activities, inspection results, identified defects and corrective actions should be recorded in the maintenance log. Accurate records help identify recurring problems and support preventive maintenance planning.
+
+6. EMERGENCY CONDITIONS
+
+If an unsafe condition, unusual smoke, fire, severe abnormal noise or another serious hazard is observed, follow the site's emergency procedure and notify the responsible supervisor or safety personnel.
